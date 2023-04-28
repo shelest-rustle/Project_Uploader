@@ -177,8 +177,6 @@ def ask_open_file():
     txt.focus()
     btn = Button(window, text='Загрузить', command=clicked)
     btn.grid(column=3, row=6)
-    btn = Button(window, text='Загрузить', command=clicked)
-    btn.grid(column=3, row=6)
     window.mainloop()
 
 
