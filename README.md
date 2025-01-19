@@ -1,2 +1,5 @@
-# Expo_Uploader
-Automatization script to format, change, divide excel-files and upload it with json-conversion using API
+# Project_Uploader
+Automatization script to receive and refactore .xlsx files (project's call-lists) and upload 'em to the robot platform using API
+
+interface: Tkinter
+analytics: pandas
